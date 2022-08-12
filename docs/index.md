@@ -20,6 +20,17 @@ $$
 |:-:|:-:|:-:|
 |$x$|$y$|$z$|
 
+```
+code
+sample
+```
+
+```python
+import numpy as np
+
+np.random.randn()
+```
+
 </details>
 
 <details><summary></summary><div>
@@ -28,5 +39,16 @@ $$
 | 1 | 2 | 3 |
 |:-:|:-:|:-:|
 |$x$|$y$|$z$|
+
+```
+code
+sample
+```
+
+```python
+import numpy as np
+
+np.random.randn()
+```
 
 </div></details>
